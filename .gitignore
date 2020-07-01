@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# From boardgen.py
+question.txt
+solution.txt
